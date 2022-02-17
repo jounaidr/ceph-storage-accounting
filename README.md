@@ -9,7 +9,7 @@ Dependencies:
 `python_dateutil==2.8.2`
 
 Script usage:
-```shell
+```
 Usage: python3 star_accounting_ceph.py [options]
 
 Options:
