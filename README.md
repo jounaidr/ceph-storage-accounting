@@ -32,7 +32,7 @@ Example storage record (see [docs]((https://www.ogf.org/Public_Comment_Docs/Docu
   <sr:StorageUsageRecord>
     <sr:RecordIdentity sr:createTime="2022-02-17T13:07:50Z" sr:recordId="ceph.host.org/sr/14423"/>
     <sr:StorageSystem>ceph.host.org</sr:StorageSystem>
-    <sr:StorageShare>pool-6</sr:StorageShare>
+    <sr:StorageShare>bobs-bucket</sr:StorageShare>
     <sr:FileCount>3</sr:FileCount>
     <sr:SubjectIdentity>
       <sr:LocalUser>bob</sr:LocalUser>
