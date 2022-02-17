@@ -24,7 +24,7 @@ Options:
                         location of message queue where storage record will be
                         stored [default: /var/spool/apel/outgoing]
 ```
-Example storage record (see [docs](https://www.ogf.org/Public_Comment_Docs/Documents/2012-02/EMI-StAR-OGF-info-doc-v2.pdf) for info on properties):
+Example storage record (see [docs](https://www.ogf.org/Public_Comment_Docs/Documents/2012-02/EMI-StAR-OGF-info-doc-v2.pdf#page=11) for info on properties):
 
 ```xml
 <?xml version="1.0" ?>
