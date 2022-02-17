@@ -14,8 +14,6 @@ Usage: python3 star_accounting_ceph.py [options]
 
 Options:
   -h, --help            show this help message and exit
-  -s SITE, --site=SITE  site where the storage record is being generated
-                        (required)
   -v VALID_DURATION, --valid_duration=VALID_DURATION
                         how long the storage record will be valid for (in
                         seconds) [default: 3600]
