@@ -1,6 +1,6 @@
 # ceph-storage-accounting
 
-Script to generate [StAR](https://www.ogf.org/Public_Comment_Docs/Documents/2012-02/EMI-StAR-OGF-info-doc-v2.pdf) format storage accounting records on Ceph systems, to be ingested by [APEL](https://github.com/apel/apel). Tested with Python 3.7, but versions 3.x should also work.
+Script to generate [StAR](https://www.academia.edu/83576908/EMI_StAR_Definition_of_a_Storage_Accounting_Record) format storage accounting records on Ceph systems, to be ingested by [APEL](https://github.com/apel/apel). Tested with Python 3.7, but versions 3.x should also work.
 
 ---
 
